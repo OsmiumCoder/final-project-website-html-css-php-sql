@@ -1,5 +1,6 @@
 # Final-Project-Website-in-HTML-CSS-PHP-SQL
-Hosted at: [http://node120.peicloud.ca/CS%202060%20-%20Assignment%203%20-%20Jonathon%20Meney%20-%20348074/index.php]
+Hosted at: http://node120.peicloud.ca/CS%202060%20-%20Assignment%203%20-%20Jonathon%20Meney%20-%20348074/index.php
+
 Final project website using HTML, CSS, PHP, and SQL with a MariaDB
 
 ## Description
